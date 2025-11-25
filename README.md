@@ -1,5 +1,5 @@
-# auto-marketing-analyze-tool
-Automated Market Monitoring System
+# Automated Market Monitoring System
+
 Tech: Python, Websocket APIs, Flask, Docker
 Category: Automation, Algorithmic Market Analyzing 
 
